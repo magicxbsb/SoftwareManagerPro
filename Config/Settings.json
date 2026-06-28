@@ -1,0 +1,85 @@
+{
+    "Application": {
+        "Name": "Software Manager Pro",
+        "Version": "0.1.0-alpha",
+        "Author": "Moustapha SOUMAH",
+        "Language": "fr-FR",
+        "Theme": "Dark",
+        "AutoUpdate": true,
+        "CheckUpdatesOnStartup": true
+    },
+
+    "Sources": {
+        "PreferredSource": "Auto",
+        "EnableWinget": true,
+        "EnableMicrosoftStore": true,
+        "EnableOfficialWebsite": true
+    },
+
+    "Installation": {
+        "PreferredChannel": "Stable",
+        "AskChannelEachTime": false,
+        "RunAsAdministrator": true,
+        "ParallelInstallations": false,
+        "MaximumParallelJobs": 2,
+        "VerifyInstallerHash": true,
+        "CreateRestorePoint": false
+    },
+
+    "Updates": {
+        "CheckOnStartup": true,
+        "AutomaticallyRefreshCache": true,
+        "UpdateInstalledApps": false
+    },
+
+    "Cache": {
+        "Enabled": true,
+        "ExpirationHours": 24,
+        "InstalledAppsCache": "Cache/InstalledApps.json",
+        "WingetCache": "Cache/Winget.json"
+    },
+
+    "Logging": {
+        "Enabled": true,
+        "Level": "Information",
+        "RetentionDays": 30,
+        "LogFolder": "Logs"
+    },
+
+    "Downloads": {
+        "Folder": "Downloads",
+        "KeepInstallers": false,
+        "DeleteAfterInstall": true
+    },
+
+    "Favorites": {
+        "File": "Config/Favorites.json"
+    },
+
+    "Profiles": {
+        "Folder": "Config/Profiles"
+    },
+
+    "Packs": {
+        "Folder": "Config/Packs"
+    },
+
+    "Interface": {
+        "ShowBanner": true,
+        "ShowProgressBar": true,
+        "ShowApplicationIcons": true,
+        "EnableAnimations": true,
+        "AccentColor": "Cyan"
+    },
+
+    "Security": {
+        "ConfirmUninstall": true,
+        "ConfirmMassInstall": true,
+        "ConfirmMassUpdate": true
+    },
+
+    "Developer": {
+        "DebugMode": false,
+        "VerboseLogs": false
+    }
+}
