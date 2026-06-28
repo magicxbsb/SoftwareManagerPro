@@ -81,12 +81,12 @@ try {
     $Settings = Get-Settings
     Initialize-Logger `
         -LogFolder $Global:LogsPath `
-        -Level     ($Settings.Logging.Level ?? "Information") `
-        -Enabled   ($Settings.Logging.Enabled ?? $true)
+        -Level     $(if ($Settings.Logging.Level) { $Settings.Logging.Level } else { "Information" }) `
+        -Enabled   $(if ($null -ne $Settings.Logging.Enabled) { $Settings.Logging.Enabled } else { $true })
 
     Initialize-Cache `
-        -Enabled        ($Settings.Cache.Enabled ?? $true) `
-        -ExpirationHours ($Settings.Cache.ExpirationHours ?? 24)
+        -Enabled        $(if ($null -ne $Settings.Cache.Enabled) { $Settings.Cache.Enabled } else { $true }) `
+        -ExpirationHours $(if ($Settings.Cache.ExpirationHours) { $Settings.Cache.ExpirationHours } else { 24 })
 
     Write-Host "  [2/5] ✔ Configuration chargée" -ForegroundColor Green
 } catch {
