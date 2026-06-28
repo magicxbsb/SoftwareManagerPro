@@ -1,0 +1,5 @@
+[
+  { "Name": "Docker Desktop", "Id": "Docker.DockerDesktop"     },
+  { "Name": "VirtualBox",     "Id": "Oracle.VirtualBox"        },
+  { "Name": "WSL ^",          "Id": "", "Url": "https://learn.microsoft.com/fr-fr/windows/wsl/install" }
+]

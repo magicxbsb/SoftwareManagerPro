@@ -1,0 +1,15 @@
+[
+  { "Sub": "NVIDIA", "Apps": [
+    { "Name": "NVIDIA Broadcast ^",     "Id": "", "Url": "https://www.nvidia.com/fr-fr/geforce/broadcasting/broadcast-app/" },
+    { "Name": "GeForce Experience ^",   "Id": "", "Url": "https://www.nvidia.com/fr-fr/geforce/geforce-experience/" }
+  ]},
+  { "Sub": "CONSTRUCTEURS", "Apps": [
+    { "Name": "MSI Center ^",           "Id": "", "Url": "https://fr.msi.com/Landing/mystic-light/download" },
+    { "Name": "Gigabyte Control Center ^","Id":"","Url": "https://www.gigabyte.com/Support/Utility" },
+    { "Name": "ASUS Armoury Crate ^",   "Id": "", "Url": "https://rog.asus.com/fr/campaign/armoury-crate/" }
+  ]},
+  { "Sub": "PLAYSTATION", "Apps": [
+    { "Name": "PS Remote Play",         "Id": "PlayStation.PSRemotePlay"          },
+    { "Name": "Accessories Installer",  "Id": "PlayStation.PlayStationAccessories" }
+  ]}
+]

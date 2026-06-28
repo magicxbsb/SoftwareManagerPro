@@ -1,0 +1,11 @@
+[
+  { "Sub": "MODELES LOCAUX", "Apps": [
+    { "Name": "LM Studio ^",   "Id": "", "Url": "https://lmstudio.ai/" },
+    { "Name": "Ollama",        "Id": "Ollama.Ollama"                   },
+    { "Name": "Jan ^",         "Id": "", "Url": "https://jan.ai/"      }
+  ]},
+  { "Sub": "OUTILS IA", "Apps": [
+    { "Name": "ComfyUI ^",     "Id": "", "Url": "https://github.com/comfyanonymous/ComfyUI/releases" },
+    { "Name": "CUDA Toolkit ^","Id": "", "Url": "https://developer.nvidia.com/cuda-downloads"        }
+  ]}
+]

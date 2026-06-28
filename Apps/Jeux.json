@@ -1,0 +1,12 @@
+[
+  { "Sub": "PLATEFORMES", "Apps": [
+    { "Name": "Steam",      "Id": "Valve.Steam"         },
+    { "Name": "Epic Games", "Id": "EpicGames.EpicGamesLauncher" },
+    { "Name": "GOG Galaxy", "Id": "GOG.Galaxy"          },
+    { "Name": "EA App",     "Id": "ElectronicArts.EADesktop" }
+  ]},
+  { "Sub": "UTILITAIRES", "Apps": [
+    { "Name": "MSI Afterburner", "Id": "Guru3D.MSIAfterburner" },
+    { "Name": "HWiNFO64",        "Id": "REALiX.HWiNFO"        }
+  ]}
+]

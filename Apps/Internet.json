@@ -1,0 +1,7 @@
+[
+  { "Name": "Google Chrome",  "Id": "Google.Chrome"        },
+  { "Name": "Firefox",        "Id": "Mozilla.Firefox"      },
+  { "Name": "Discord",        "Id": "Discord.Discord"      },
+  { "Name": "Slack",          "Id": "SlackTechnologies.Slack" },
+  { "Name": "qBittorrent",    "Id": "qBittorrent.qBittorrent" }
+]

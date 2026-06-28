@@ -1,0 +1,17 @@
+[
+  { "Sub": "LOGICIELS STREAM", "Apps": [
+    { "Name": "OBS Studio",          "Id": "OBSProject.OBSStudio"  },
+    { "Name": "Streamlabs Desktop",  "Id": "Streamlabs.Streamlabs"  },
+    { "Name": "TikTok Live Studio ^","Id": "", "Url": "https://www.tiktok.com/studio/download" },
+    { "Name": "PRISM Live Studio ^", "Id": "", "Url": "https://prismlive.com/en_us/desktop.html" }
+  ]},
+  { "Sub": "PLUGINS & EXTENSIONS", "Apps": [
+    { "Name": "StreamElements SE LIVE ^", "Id": "", "Url": "https://streamelements.com/selive" },
+    { "Name": "Social Stream Ninja ^",    "Id": "", "Url": "https://socialstream.ninja/landing" },
+    { "Name": "Streamlabs Plugin OBS ^",  "Id": "", "Url": "https://streamlabs.com/fr-fr/obs-plugin" }
+  ]},
+  { "Sub": "MATERIEL & AUDIO", "Apps": [
+    { "Name": "NVIDIA Broadcast ^",             "Id": "", "Url": "https://www.nvidia.com/fr-fr/geforce/broadcasting/broadcast-app/" },
+    { "Name": "StreamElements Ground Control ^","Id": "", "Url": "https://streamelements.com/groundcontrol" }
+  ]}
+]

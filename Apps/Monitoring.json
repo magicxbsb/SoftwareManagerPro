@@ -1,0 +1,8 @@
+[
+  { "Name": "CPU-Z",           "Id": "CPUID.CPU-Z"            },
+  { "Name": "GPU-Z",           "Id": "TechPowerUp.GPU-Z"      },
+  { "Name": "HWiNFO64",        "Id": "REALiX.HWiNFO"         },
+  { "Name": "MSI Afterburner", "Id": "Guru3D.MSIAfterburner"  },
+  { "Name": "CrystalDiskInfo", "Id": "CrystalDewWorld.CrystalDiskInfo" },
+  { "Name": "Process Lasso",   "Id": "Bitsum.ProcessLasso"    }
+]

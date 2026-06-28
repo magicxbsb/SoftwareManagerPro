@@ -1,0 +1,7 @@
+[
+  { "Name": "VirtualDJ",   "Id": "AtomixProductions.VirtualDJ" },
+  { "Name": "VLC",         "Id": "VideoLAN.VLC"                },
+  { "Name": "Handbrake",   "Id": "HandBrake.HandBrake"         },
+  { "Name": "Audacity",    "Id": "Audacity.Audacity"           },
+  { "Name": "foobar2000",  "Id": "PeterPawlowski.foobar2000"   }
+]

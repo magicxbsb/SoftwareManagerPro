@@ -1,0 +1,24 @@
+[
+  { "Sub": "ELGATO", "Apps": [
+    { "Sub": "STREAM DECK", "Apps": [
+      { "Name": "Stream Deck",    "Id": "Elgato.StreamDeck"    },
+      { "Name": "Wave Link",      "Id": "Elgato.WaveLink"      },
+      { "Name": "Studio",         "Id": "Elgato.Studio"        },
+      { "Name": "Control Center", "Id": "Elgato.ControlCenter" },
+      { "Name": "Marketplace Connect ^", "Id": "", "Url": "https://www.elgato.com/fr/fr/s/downloads" },
+      { "Name": "Buttons ^",             "Id": "", "Url": "https://www.elgato.com/fr/fr/s/downloads" },
+      { "Name": "Default Profile Galleon 100 ^", "Id": "", "Url": "https://www.elgato.com/fr/fr/s/downloads" }
+    ]},
+    { "Sub": "CAPTURE", "Apps": [
+      { "Name": "4K Capture Utility",    "Id": "Elgato.4KCaptureUtility"        },
+      { "Name": "Camera Hub",            "Id": "Elgato.CameraHub"               },
+      { "Name": "Video Capture ^",       "Id": "", "Url": "https://www.elgato.com/fr/fr/s/downloads" },
+      { "Name": "Game Capture 4K60 Pro", "Id": "Elgato.GameCapture.4K60ProMK2"  },
+      { "Name": "Game Capture HD",       "Id": "Elgato.GameCapture.HD"          },
+      { "Name": "Game Capture HD60 S",   "Id": "Elgato.GameCapture.HD60S"       }
+    ]},
+    { "Sub": "CAMERA", "Apps": [
+      { "Name": "EpocCam (drivers)", "Id": "Elgato.EpocCam" }
+    ]}
+  ]}
+]

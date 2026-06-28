@@ -1,0 +1,9 @@
+[
+  { "Name": "VS Code",          "Id": "Microsoft.VisualStudioCode" },
+  { "Name": "Git",              "Id": "Git.Git"                    },
+  { "Name": "Windows Terminal", "Id": "Microsoft.WindowsTerminal"  },
+  { "Name": "Notepad++",        "Id": "Notepad++.Notepad++"        },
+  { "Name": "Python 3",         "Id": "Python.Python.3"            },
+  { "Name": "Node.js",          "Id": "OpenJS.NodeJS"              },
+  { "Name": "Docker Desktop",   "Id": "Docker.DockerDesktop"       }
+]

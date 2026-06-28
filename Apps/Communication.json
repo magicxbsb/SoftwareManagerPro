@@ -1,0 +1,7 @@
+[
+  { "Name": "Discord",   "Id": "Discord.Discord"          },
+  { "Name": "Slack",     "Id": "SlackTechnologies.Slack"  },
+  { "Name": "Teams",     "Id": "Microsoft.Teams"          },
+  { "Name": "Zoom",      "Id": "Zoom.Zoom"                },
+  { "Name": "Telegram",  "Id": "Telegram.TelegramDesktop" }
+]

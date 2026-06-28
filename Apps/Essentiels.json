@@ -1,0 +1,8 @@
+[
+  { "Name": "CPU-Z",          "Id": "CPUID.CPU-Z"              },
+  { "Name": "Notepad++",      "Id": "Notepad++.Notepad++"      },
+  { "Name": "Process Lasso",  "Id": "Bitsum.ProcessLasso"      },
+  { "Name": "TreeSize Free",  "Id": "JAMSoftware.TreeSize.Free"},
+  { "Name": "7-Zip",          "Id": "7zip.7zip"                },
+  { "Name": "Everything",     "Id": "voidtools.Everything"     }
+]
